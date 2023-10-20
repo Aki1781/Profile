@@ -1,0 +1,21 @@
+body {
+    font-size: xx-large;
+    background-color: black;
+}
+
+center {
+    font-style: italic;
+    color: whitesmoke;
+}
+
+.resume {
+    text-align: center;
+}
+
+.linkedin {
+    text-align: center;
+}
+
+.github {
+    text-align: center;
+}
